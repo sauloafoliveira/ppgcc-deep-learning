@@ -1,10 +1,17 @@
+
+
+[![logo](ppgc_logo.png)](https://ppgcc.ifce.edu.br/)
+
+---
+
 # DEEP101 - Aprendizagem Profunda
 
 Conhecer os conceitos fundamentais de aprendizado profundo, permitindo que os discentes possuam conhecimentos necessários para o aprofundamento em qualquer campo da área e que possam desenvolver métodos, ferramentas e aplicações inteligentes.
 
 ## Professores
-Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ)
-e-mail: saulo[dot]oliveira[at]ifce.edu.br
+Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ) | [ORCID](http://orcid.org/0000-0001-6362-6113)
+
+e-mail: saulo.oliveira@ifce.edu.br
 
 ## Informações
 **Horário**: Às segundas, das 07:30 às 11:30.
