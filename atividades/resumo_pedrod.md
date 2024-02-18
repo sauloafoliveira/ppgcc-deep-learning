@@ -16,7 +16,7 @@ Meio de Entrega: ```Relatório```.
 
 # Resumo do Artigo "A Few Useful Things to Know about Machine Learning"
 
-Faça um resumo/resenha do artigo em anexo, a saber, *A Few Useful Things to Know about Machine Learning*, do Pedro Domingos.
+Faça um resumo/resenha do artigo em anexo, a saber, *A Few Useful Things to Know about Machine Learning*, do Pedro Domingos, [link aqui](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755).
 
 Cada seção deve ser sumarizada e conter uma resenha sua. **Adote um parágrafo como medida de escrita mínima**. 
 
