@@ -32,8 +32,8 @@ Perceptron.
 
 4. Conjunto de dados para o exemplo de salmão/robalo do livro ```Pattern Classification 3nd ed. por Richard O. Duda, Peter E. Hart.```
 
-- Baixe o csv do conjunto de dados (aqui)[salmon_seabass.csv];
-- Implemente um Percentron (na mão mesmo, beeeem pedestre) e treine um para resolver o problema de classificação salmão/robalo;
+- Baixe o csv do conjunto de dados [aqui](salmon_seabass.csv);
+- Implemente um Percentron (na mão mesmo, beeeem pedestre) e treine um para resolver o problema de classificação 0-salmão/1-robalo;
 - Mostre a matriz de confusão;
 - Extraia as métricas de acurácia, precisão e revocação (*recall*).
 - *EXTRA*: tente utilizar a ```matplotlib``` para mostrar a superfície de decisão do problema!
