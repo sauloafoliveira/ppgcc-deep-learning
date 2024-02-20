@@ -64,9 +64,9 @@ Este é o plano de estudos da turma de 2024 do curso.
 | Tipo      | Data       | Descrição                                               | Material                                                     |
 | --------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ |
 | Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf)  • [Atividade](atividades/resumo_pedrod.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
-| Aula      | 26/02/2024 | Perceptron                                              | [Slides](slides/dl_02_perceptron.pdf) • [Atividade classificação](atividades/perceptron.md) |
-| Aula      | 04/03/2024 | Adaline                                                 | [Slides](slides/dl_03_adaline.pdf) • [Atividade ](#) |
-| Aula      | 11/03/2024 | Perceptron multicamadas (MLP)                           | [Slides](slides/dl_04_mlp.pdf) • [Atividade ](#) |
+| Aula      | 26/02/2024 | Perceptron                                              | [Slides](slides/dl_02_perceptron.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
+| Aula      | 04/03/2024 | Adaline                                                 | [Slides](slides/dl_03_adaline.pdf) • [Atividade](#) |
+| Aula      | 11/03/2024 | Perceptron multicamadas (MLP)                           | [Slides](slides/dl_04_mlp.pdf) • [Atividade](#) |
 | Aula      | 18/03/2024 | Otimizadores                                            | [Slides](slides/dl_05_treinamento) • [Atividade ](#) |
 | Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova 2022](#) [Prova 2023](#) |
 | Seminário | 01/04/2024 | Desafio MLP                                             | [Atividade ](#) |
