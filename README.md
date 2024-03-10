@@ -1,16 +1,11 @@
----
-title: My Page Title
-nav: index page1 page2
-toc: true
----
 
-# DEEP101 - Aprendizagem Profunda
+# DEEP101 - Aprendizagem Profunda (2024)
 
 Conhecer os conceitos fundamentais de aprendizado profundo, permitindo que os discentes possuam conhecimentos necessários para o aprofundamento em qualquer campo da área e que possam desenvolver métodos, ferramentas e aplicações inteligentes.
 
 ## Professores
 Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ)
-e-mail: saulo[dot]oliveira[at]ifce.edu.br
+e-mail: saulo.oliveira@ifce.edu.br
 
 ## Informações
 **Horário**: Às segundas, das 07:30 às 11:30.
@@ -54,17 +49,25 @@ Observe um caso ilustrativo:
 
 <small>Por questões éticas, com a finalidade de preservar a verdadeira identidade dos discentes, ocultaremos os nomes dos alunos. Assim, a identificação será por meio do número de matrícula, só que de forma truncada.</small>
 
+### Notas parcais
+|          | Prova (2) | Simulação (1) | Relatório (1) | Seminário (1) | Nota final |
+| -------- | :-------: | :-----------: | :-----------: | :-----------: | :--------: |
+| Huguinho |     A     |       A       |       B       |       A       |    9,5     |
+| Zezinho  |     B     |       B       |       B       |       C       |    7,0     |
+| Luizinho |     C     |       A       |       B       |       B       |    8,0     |
+| Donald   |     B     |       D       |       C       |       C       |    4,5     |
+
 ## Cronograma e Conteúdo Programático
 
 Este é o plano de estudos da iteração de outono de 2020 do curso.
 
 | Tipo      | Data       | Descrição                                               | Material                                                     |
 | --------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf) • [Artigo do Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) |
-| Aula      | 26/02/2024 | Perceptron                                              | [Slides](slides/dl_02_perceptron.pdf) • [Atividade classificação](atividades/perceptron.md) |
-| Aula      | 04/03/2024 | Adaline                                                 | [Slides](classes/pdf/dl_04_mlp.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 11/03/2024 | Perceptron multicamadas (MLP)                           | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 18/03/2024 | Otimizadores                                            | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](#) |
+| Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf) • [Artigo do Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  • [Atividade resumo](atividades/resumo_pedrod.md) |
+| Aula      | 26/02/2024 | Perceptron & Adaline                                              | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Slide Adaline](slides/dl_03_adaline.pdf) • [Atividade classificação](atividades/perceptron.md) |
+| Aula      | 04/03/2024 | Perceptron multicamadas (MLP) & Redes de treino rápido                                                 | [Slide MLP](slides/dl_04_mlp.pdf) • [Slide ELM e RBF](slides/dl_07_treino_rapido.pdf) [Atividade MLP](atividades/mlp_2d.md) |
+| Aula      | 11/03/2024 | Normalização de dados e Otimizadores                          | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só!)](slides/dl_08_introdl.pdf) • [Atividade banco](#1) |
+| Aula      | 18/03/2024 | Seleção de modelos                                            | [Slides]($) • [Atividade regressão](#) |
 | Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
 | Seminário | 01/04/2024 | Desafio MLP                                             | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
 | Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
@@ -73,7 +76,7 @@ Este é o plano de estudos da iteração de outono de 2020 do curso.
 | Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
 | Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
 | Prova     | 13/05/2024 | Solução de problemas da indústria                       | Nenhum.                                                      |
-| Seminário | 20/05/2024 | Desafio RNN/GAN/VAE - Parte 01                          | :wrong:                                                      |
+| Seminário | 20/05/2024 | Desafio RNN/GAN/VAE - Parte 01                          | :x:                                                      |
 | Seminário | 27/05/2024 | Desafio RNN/GAN/VAE - Parte 02                          | :white_check_mark:                                           |
 
 <small>Cronograma básico. Ele pode ser alterado a qualquer momento por eventos diversos.</small>
