@@ -8,6 +8,8 @@
 
 Conhecer os conceitos fundamentais de aprendizado profundo, permitindo que os discentes possuam conhecimentos necessários para o aprofundamento em qualquer campo da área e que possam desenvolver métodos, ferramentas e aplicações inteligentes.
 
+[Clique aqui e baixe o Programa de Unidade Didática da disciplina.](suplementar/pud-aprendizagem-profunda.pdf)
+
 ## Professores
 Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ) | [ORCID](http://orcid.org/0000-0001-6362-6113)
 
@@ -72,11 +74,11 @@ Este é o plano de estudos da turma de 2024 do curso.
 | Tipo      | Data       | Descrição                                               | Material                                                     |
 | --------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ |
 | Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf)  • [Atividade](atividades/resumo_pedrod.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
-| Aula      | 26/02/2024 | Perceptron  & Adaline                                            | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
-| Aula      | 04/03/2024 | Adaline                                                 | [Slides](slides/dl_03_adaline.pdf) • [Atividade](#) |
-| Aula      | 11/03/2024 | Perceptron multicamadas (MLP)                           | [Slides](slides/dl_04_mlp.pdf) • [Atividade](#) |
-| Aula      | 18/03/2024 | Otimizadores                                            | [Slides](slides/dl_05_treinamento) • [Atividade ](#) |
-| Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova 2022](#) [Prova 2023](#) |
+| Aula      | 26/02/2024 | Perceptron  & Adaline                                            | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Slide Adaline](slides/dl_03_adaline.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
+| Aula      | 04/03/2024 | Perceptron multicamadas (MLP) & Redes de treino rápido                                                 | [Slide MLP](slides/dl_04_mlp.pdf) • [Slide RBF & ELM](slides/dl_07_treino_rapido.pdf) • [Atividade Datasets 2D](atividades/mlp_2d.md) |
+| Aula      | 11/03/2024 | Normalização & Otimizadores                           | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só)](slides/dl_08_introdl.pdf) • [Notebook PyTorch](suplementar/Intro_ao_PyTorch.ipynb) •  [Atividade](#) |
+| Aula      | 18/03/2024 | Seleção de Modelos e Projeto de Experimentos                                            | [Slides](#) • [Atividade ](#) |
+| Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova (RNA) 2022](suplementar/2022_rna_exam.pdf)  •  [Prova (DL) 2023](suplementar/2023_rna_exam.pdf) |
 | Seminário | 01/04/2024 | Desafio MLP                                             | [Atividade ](#) |
 | Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) • [Atividade](#) |
 | Aula      | 15/04/2024 | Redes convolucionais famosinhas                         | [Slides](slides/dl_09_cnn_famous.pdf) • [Atividade ](#) |
