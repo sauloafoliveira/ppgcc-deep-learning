@@ -1,10 +1,16 @@
 
+
+[![logo](ppgc_logo.png)](https://ppgcc.ifce.edu.br/)
+
+---
+
 # DEEP101 - Aprendizagem Profunda (2024)
 
 Conhecer os conceitos fundamentais de aprendizado profundo, permitindo que os discentes possuam conhecimentos necessários para o aprofundamento em qualquer campo da área e que possam desenvolver métodos, ferramentas e aplicações inteligentes.
 
 ## Professores
-Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ)
+Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Google Scholar](https://scholar.google.com.br/citations?user=rRTkRcAAAAAJ) | [ORCID](http://orcid.org/0000-0001-6362-6113)
+
 e-mail: saulo.oliveira@ifce.edu.br
 
 ## Informações
@@ -30,15 +36,17 @@ A avaliação da disciplina é qualitativa e visa o caminho da aprendizagem. Ass
 
 Além do resultado da avaliação qualitativa, cada atividade avaliativa possui um peso associado. Em posse de cada avaliação e seu respectivo peso, a nota final que é a que vai para o histórico é calculada conforme a seguinte fórmula:
 
-$$\text{Nota final} = \dfrac{\sum^N_{i} a_i * w_i }{\sum^N_{i} a_i} \text{ em que } a_i=\begin{cases}
+$$\text{Nota final} = \dfrac{\sum\limits^N_{i} a_i * w_i }{\sum\limits^N_{i} a_i} \text{ em que } a_i=\begin{cases}
     4, & \text{se } a_i = A;\\
     3, & \text{se } a_i = B;\\
     2, & \text{se } a_i = C;\\
     1, & \text{se } a_i = D;\\
     0, & \text{se não entregue.}
-\end{cases}$$ 
+\end{cases},$$
 
-Observe um caso ilustrativo:
+em que $N$ representa o número de atividades na disciplina. 
+
+Observe um caso ilustrativo -- o número entre parênteses representa o peso da atividade:
 
 |          | Prova (2) | Simulação (1) | Relatório (1) | Seminário (1) | Nota final |
 | -------- | :-------: | :-----------: | :-----------: | :-----------: | :--------: |
@@ -59,25 +67,27 @@ Observe um caso ilustrativo:
 
 ## Cronograma e Conteúdo Programático
 
-Este é o plano de estudos da iteração de outono de 2020 do curso.
+Este é o plano de estudos da turma de 2024 do curso.
 
 | Tipo      | Data       | Descrição                                               | Material                                                     |
 | --------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf) • [Artigo do Pedro Domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  • [Atividade resumo](atividades/resumo_pedrod.md) |
-| Aula      | 26/02/2024 | Perceptron & Adaline                                              | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Slide Adaline](slides/dl_03_adaline.pdf) • [Atividade classificação](atividades/perceptron.md) |
-| Aula      | 04/03/2024 | Perceptron multicamadas (MLP) & Redes de treino rápido                                                 | [Slide MLP](slides/dl_04_mlp.pdf) • [Slide ELM e RBF](slides/dl_07_treino_rapido.pdf) [Atividade MLP](atividades/mlp_2d.md) |
-| Aula      | 11/03/2024 | Normalização de dados e Otimizadores                          | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só!)](slides/dl_08_introdl.pdf) • [Atividade banco](#1) |
-| Aula      | 18/03/2024 | Seleção de modelos                                            | [Slides]($) • [Atividade regressão](#) |
-| Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Seminário | 01/04/2024 | Desafio MLP                                             | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 15/04/2024 | Redes convolucionais famosinhas                         | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Seminário | 22/04/2024 | Desafio CNN                                             | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
-| Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_03_adaline.pdf) • [Atividade regressão](atividades/atividade-01.pdf) |
+| Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf)  • [Atividade](atividades/resumo_pedrod.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
+| Aula      | 26/02/2024 | Perceptron  & Adaline                                            | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
+| Aula      | 04/03/2024 | Adaline                                                 | [Slides](slides/dl_03_adaline.pdf) • [Atividade](#) |
+| Aula      | 11/03/2024 | Perceptron multicamadas (MLP)                           | [Slides](slides/dl_04_mlp.pdf) • [Atividade](#) |
+| Aula      | 18/03/2024 | Otimizadores                                            | [Slides](slides/dl_05_treinamento) • [Atividade ](#) |
+| Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova 2022](#) [Prova 2023](#) |
+| Seminário | 01/04/2024 | Desafio MLP                                             | [Atividade ](#) |
+| Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) • [Atividade](#) |
+| Aula      | 15/04/2024 | Redes convolucionais famosinhas                         | [Slides](slides/dl_09_cnn_famous.pdf) • [Atividade ](#) |
+| Seminário | 22/04/2024 | Desafio CNN                                             | [Atividade ](#) |
+| Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_10_ae_vae_gan.pdf) • [Atividade ](#) |
+| Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_11_recorrent.pdf) • [Atividade ](#) |
 | Prova     | 13/05/2024 | Solução de problemas da indústria                       | Nenhum.                                                      |
-| Seminário | 20/05/2024 | Desafio RNN/GAN/VAE - Parte 01                          | :x:                                                      |
-| Seminário | 27/05/2024 | Desafio RNN/GAN/VAE - Parte 02                          | :white_check_mark:                                           |
+| Seminário | 20/05/2024 | Desafio RNN/GAN/VAE - Parte 01                          | Nenhum.                                                     |
+| Seminário | 27/05/2024 | Desafio RNN/GAN/VAE - Parte 02                          | Nenhum.                                                |
+| Seminário | 03/06/2024 | Artigo final                                            | Nenhum.                                           |
+| Seminário | 10/06/2024 | Socialização do artigo final                            | Nenhum.                                           |
 
 <small>Cronograma básico. Ele pode ser alterado a qualquer momento por eventos diversos.</small>
 
