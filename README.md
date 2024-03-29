@@ -82,7 +82,7 @@ Este é o plano de estudos da turma de 2024 do curso.
 | Aula      | 11/03/2024 | Normalização & Otimizadores                           | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só)](slides/dl_08_introdl.pdf) • [Notebook PyTorch](suplementar/Intro_ao_PyTorch.ipynb) •  [Atividade](#) |
 | Aula      | 18/03/2024 | Seleção de Modelos e Projeto de Experimentos                                            | [Slides](#) • [Atividade ](#) |
 | Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova (RNA) 2022](suplementar/2022_rna_exam.pdf)  •  [Prova (DL) 2023](suplementar/2023_rna_exam.pdf) |
-| Seminário | 01/04/2024 | Desafio MLP                                             | [Atividade ](#) |
+| Aula | 01/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) •                    [Desafio CNN PokéBalança](atividades/pokepeso.md) |
 | Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) • [Atividade](#) |
 | Aula      | 15/04/2024 | Redes convolucionais famosinhas                         | [Slides](slides/dl_09_cnn_famous.pdf) • [Atividade ](#) |
 | Seminário | 22/04/2024 | Desafio CNN                                             | [Atividade ](#) |
