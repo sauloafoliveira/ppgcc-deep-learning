@@ -59,13 +59,16 @@ Observe um caso ilustrativo -- o número entre parênteses representa o peso da 
 
 <small>Por questões éticas, com a finalidade de preservar a verdadeira identidade dos discentes, ocultaremos os nomes dos alunos. Assim, a identificação será por meio do número de matrícula, só que de forma truncada.</small>
 
-### Notas parcais
-|          | Prova (2) | Simulação (1) | Relatório (1) | Seminário (1) | Nota final |
-| -------- | :-------: | :-----------: | :-----------: | :-----------: | :--------: |
-| Huguinho |     A     |       A       |       B       |       A       |    9,5     |
-| Zezinho  |     B     |       B       |       B       |       C       |    7,0     |
-| Luizinho |     C     |       A       |       B       |       B       |    8,0     |
-| Donald   |     B     |       D       |       C       |       C       |    4,5     |
+|                   | Média parcial | Resumo | Perceptron | MLP  | Prova |
+| ----------------- | ------------- | ------ | ---------- | ---- | ----- |
+|                   |               | 1      | 1          | 2    | 2     |
+| \*\*\*\*\*\*\*060 | 9,6           | A      | B          | A    | A     |
+| \*\*\*\*\*\*\*300 | #VALUE!       | B      |            |      | C     |
+| \*\*\*\*\*\*\*164 | 8,3           | B      | B          | A    | B     |
+| \*\*\*\*\*\*\*229 | 7,5           | B      | B          | A    | C     |
+| \*\*\*\*\*\*\*067 | 8,7           | A      | B          | A    | B     |
+| \*\*\*\*\*\*\*210 | #VALUE!       | A      | B          | A    |       |
+| \*\*\*\*\*\*\*172 | 8,3           | B      | B          | A    | B     |
 
 ## Cronograma e Conteúdo Programático
 
