@@ -83,9 +83,9 @@ Este é o plano de estudos da turma de 2024 do curso.
 | Aula      | 18/03/2024 | Seleção de Modelos e Projeto de Experimentos                                            | [Slides](#) • [Atividade ](#) |
 | Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova (RNA) 2022](suplementar/2022_rna_exam.pdf)  •  [Prova (DL) 2023](suplementar/2023_rna_exam.pdf) |
 | Aula | 01/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) •                    [Desafio CNN PokéBalança](atividades/pokepeso.md) |
-| Aula      | 08/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) • [Atividade](#) |
-| Aula      | 15/04/2024 | Redes convolucionais famosinhas                         | [Slides](slides/dl_09_cnn_famous.pdf) • [Atividade ](#) |
-| Seminário | 22/04/2024 | Desafio CNN                                             | [Atividade ](#) |
+| Aula      | 08/04/2024 | Redes convolucionais famosinhas                                    | [Slides](slides/dl_06_problemas.pdf)  |
+| Aula      | 09/04/2024 | Problemas comuns                         | [Slides](slides/dl_06_problemas.pdf) |
+| Seminário | 15/04/2024 | Desafio CNN                                            | [Modelo Slide](https://docs.google.com/presentation/d/1CaxWihoUNVIszqsCwFethmMr-lcYoGO_L456NH5TOZ0/edit?usp=sharing)  |
 | Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_10_ae_vae_gan.pdf) • [Atividade ](#) |
 | Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_11_recorrent.pdf) • [Atividade ](#) |
 | Prova     | 13/05/2024 | Solução de problemas da indústria                       | Nenhum.                                                      |
