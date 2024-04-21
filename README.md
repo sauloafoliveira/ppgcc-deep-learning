@@ -86,6 +86,7 @@ Este é o plano de estudos da turma de 2024 do curso.
 | Aula      | 08/04/2024 | Redes convolucionais famosinhas                                    | [Slides](slides/dl_06_problemas.pdf)  |
 | Aula      | 09/04/2024 | Problemas comuns                         | [Slides](slides/dl_06_problemas.pdf) |
 | Seminário | 15/04/2024 | Desafio CNN                                            | [Modelo Slide](https://docs.google.com/presentation/d/1CaxWihoUNVIszqsCwFethmMr-lcYoGO_L456NH5TOZ0/edit?usp=sharing)  |
+| Aula | 22/04/2024 | Resumo de Teoria da Probabilidade | [Slides](slides/dl_16_probabilidade-completa.pdf)  • [Atividade](atividades/amostragem_estimacao_imputacao.md)  |
 | Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_10_ae_vae_gan.pdf) • [Atividade ](#) |
 | Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_11_recorrent.pdf) • [Atividade ](#) |
 | Prova     | 13/05/2024 | Solução de problemas da indústria                       | Nenhum.                                                      |
