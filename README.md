@@ -4,7 +4,7 @@
 
 ---
 
-# DEEP101 - Aprendizagem Profunda (2024)
+# DEEP101 - Aprendizagem Profunda (2025)
 
 Conhecer os conceitos fundamentais de aprendizado profundo, permitindo que os discentes possuam conhecimentos necessários para o aprofundamento em qualquer campo da área e que possam desenvolver métodos, ferramentas e aplicações inteligentes.
 
@@ -16,7 +16,7 @@ Prof. Dr. Saulo Oliveira [Lattes](http://lattes.cnpq.br/9883694006602467) | [Goo
 e-mail: saulo.oliveira@ifce.edu.br
 
 ## Informações
-**Horário**: Às segundas, das 07:30 às 11:30.
+**Horário**: Às terças, das 13:00 às 15:00.
 
 **Local**: Sala 204, Bloco de Pós-graduação. Instituto Federal de Educação, Ciência e Tecnologia do Ceará | *campus* Fortaleza.
 
@@ -57,43 +57,30 @@ Observe um caso ilustrativo -- o número entre parênteses representa o peso da 
 | Luizinho |     C     |       A       |       B       |       B       |    8,0     |
 | Donald   |     B     |       D       |       C       |       C       |    4,5     |
 
-<small>Por questões éticas, com a finalidade de preservar a verdadeira identidade dos discentes, ocultaremos os nomes dos alunos. Assim, a identificação será por meio do número de matrícula, só que de forma truncada.</small>
-
-|                   | Média parcial | Resumo | Perceptron | MLP  | Prova |
-| ----------------- | ------------- | ------ | ---------- | ---- | ----- |
-|                   |               | 1      | 1          | 2    | 2     |
-| \*\*\*\*\*\*\*060 | 9,6           | A      | B          | A    | A     |
-| \*\*\*\*\*\*\*300 | #VALUE!       | B      |            |      | C     |
-| \*\*\*\*\*\*\*164 | 8,3           | B      | B          | A    | B     |
-| \*\*\*\*\*\*\*229 | 7,5           | B      | B          | A    | C     |
-| \*\*\*\*\*\*\*067 | 8,7           | A      | B          | A    | B     |
-| \*\*\*\*\*\*\*210 | #VALUE!       | A      | B          | A    |       |
-| \*\*\*\*\*\*\*172 | 8,3           | B      | B          | A    | B     |
-
 ## Cronograma e Conteúdo Programático
 
-Este é o plano de estudos da turma de 2024 do curso.
+> Este é o plano de estudos da turma de 2025 do curso (ainda em construção).
 
 | Tipo      | Data       | Descrição                                               | Material                                                     |
 | --------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Aula      | 19/02/2024 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf)  • [Atividade](atividades/resumo_pedrod.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
-| Aula      | 26/02/2024 | Perceptron  & Adaline                                            | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Slide Adaline](slides/dl_03_adaline.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
-| Aula      | 04/03/2024 | Perceptron multicamadas (MLP) & Redes de treino rápido                                                 | [Slide MLP](slides/dl_04_mlp.pdf) • [Slide RBF & ELM](slides/dl_07_treino_rapido.pdf) • [Atividade Datasets 2D](atividades/mlp_2d.md) |
-| Aula      | 11/03/2024 | Normalização & Otimizadores                           | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só)](slides/dl_08_introdl.pdf) • [Notebook PyTorch](suplementar/Intro_ao_PyTorch.ipynb) •  [Atividade](#) |
-| Aula      | 18/03/2024 | Seleção de Modelos e Projeto de Experimentos                                            | [Slides](#) • [Atividade ](#) |
-| Prova     | 25/03/2024 | Perceptron, Adaline e MLPs                              | [Prova (RNA) 2022](suplementar/2022_rna_exam.pdf)  •  [Prova (DL) 2023](suplementar/2023_rna_exam.pdf) |
-| Aula | 01/04/2024 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) •                    [Desafio CNN PokéBalança](atividades/pokepeso.md) |
-| Aula      | 08/04/2024 | Redes convolucionais famosinhas                                    | [Slides](slides/dl_06_problemas.pdf)  |
-| Aula      | 09/04/2024 | Problemas comuns                         | [Slides](slides/dl_06_problemas.pdf) |
-| Seminário | 15/04/2024 | Desafio CNN                                            | [Modelo Slide](https://docs.google.com/presentation/d/1CaxWihoUNVIszqsCwFethmMr-lcYoGO_L456NH5TOZ0/edit?usp=sharing)  |
-| Aula | 22/04/2024 | Resumo de Teoria da Probabilidade | [Slides](slides/dl_16_probabilidade-completa.pdf)  • [Atividade](atividades/amostragem_estimacao_imputacao.md)  |
-| Aula      | 29/04/2024 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_10_ae_vae_gan.pdf) • [Atividade ](#) |
-| Aula      | 06/05/2024 | Redes recorrentes                                       | [Slides](slides/dl_11_recorrent.pdf) • [Atividade ](#) |
-| Prova     | 13/05/2024 | Solução de problemas da indústria                       | Nenhum.                                                      |
-| Seminário | 20/05/2024 | Desafio RNN/GAN/VAE - Parte 01                          | Nenhum.                                                     |
-| Seminário | 27/05/2024 | Desafio RNN/GAN/VAE - Parte 02                          | Nenhum.                                                |
-| Seminário | 03/06/2024 | Artigo final                                            | Nenhum.                                           |
-| Seminário | 10/06/2024 | Socialização do artigo final                            | Nenhum.                                           |
+| Aula      | 15/04/2025 | Introdução à Aprendizagem de máquina                    | [Slides](slides/dl_01_ml.pdf)  • [Atividade](atividades/resumo_pedrod.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) |
+| Aula      | 22/04/2025 | Perceptron  & Adaline                                            | [Slide Perceptron](slides/dl_02_perceptron.pdf) • [Slide Adaline](slides/dl_03_adaline.pdf) • [Atividade classificação Salmão *vs.* Robalo](atividades/perceptron-salmao-robalo.md) |
+| Aula      | 29/04/2025 | Perceptron multicamadas (MLP) & Redes de treino rápido                                                 | [Slide MLP](slides/dl_04_mlp.pdf) • [Slide RBF & ELM](slides/dl_07_treino_rapido.pdf) • [Atividade Datasets 2D](atividades/mlp_2d.md) |
+| Aula      | 06/05/2025 | Normalização & Otimizadores                           | [Slide Normalização](slides/dl_05_normalizacao.pdf) • [Slide Otimizadores (seção só)](slides/dl_08_introdl.pdf) • [Notebook PyTorch](suplementar/Intro_ao_PyTorch.ipynb) •  [Atividade](#) |
+| Aula      | 13/05/2025 | Seleção de Modelos e Projeto de Experimentos                                            | [Slides](#) • [Atividade ](#) |
+| Prova     | 20/05/2025 | Perceptron, Adaline e MLPs                              | [Prova (RNA) 2022](suplementar/2022_rna_exam.pdf)  •  [Prova (DL) 2023](suplementar/2023_rna_exam.pdf)  •  [Prova (DL) 2024](suplementar/2024_dl_exam.pdf) |
+| Aula | 27/05/2025 | Redes convolucionais                                    | [Slides](slides/dl_08_introdl.pdf) •                    [Desafio XXXXX](#) |
+| Aula      | 03/06/2025 | Redes convolucionais famosinhas                                    | [Slides](slides/dl_06_problemas.pdf)  |
+| Aula      | 10/06/2025 | Problemas comuns                         | [Slides](slides/dl_06_problemas.pdf) |
+| Seminário | 17/06/2025 | Desafio CNN                                            | [Modelo Slide](https://docs.google.com/presentation/d/1CaxWihoUNVIszqsCwFethmMr-lcYoGO_L456NH5TOZ0/edit?usp=sharing)  |
+| Aula | 24/06/2025 | Resumo de Teoria da Probabilidade | [Slides](slides/dl_16_probabilidade-completa.pdf)  • [Atividade](atividades/#)  |
+| Aula      | 22/07/2025 | Redes autocodificadoras e Redes adversárias generativas | [Slides](slides/dl_10_ae_vae_gan.pdf) • [Atividade ](#) |
+| Aula      | 29/07/2025 | Redes recorrentes                                       | [Slides](slides/dl_11_recorrent.pdf) • [Atividade ](#) |
+| Prova     | 05/08/2025 | Solução de problemas da indústria                       | Nenhum.                                                      |
+| Seminário | --/--/2025 | Desafio RNN/GAN/VAE - Parte 01                          | Nenhum.                                                     |
+| Seminário | --/--/2025 | Desafio RNN/GAN/VAE - Parte 02                          | Nenhum.                                                |
+| Seminário | --/--/2025 | Artigo final                                            | Nenhum.                                           |
+| Seminário | --/--/2025 | Socialização do artigo final                            | Nenhum.                                           |
 
 <small>Cronograma básico. Ele pode ser alterado a qualquer momento por eventos diversos.</small>
 
